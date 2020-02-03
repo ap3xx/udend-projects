@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*.sqlite
+input/
+output/
+*.crdownload
+.vscode
